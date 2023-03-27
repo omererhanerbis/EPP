@@ -1,0 +1,6 @@
+@Unpublished{forecasting_electricity_consumption_in_turkey2023,
+    Title  = {Electricity is highly important energy source and producers need information on how much to produce due to storing difficulty of electricity. This project aims to forecast electricity consumption in Turkey for producers to have a reference point on expected electricity demand.},
+    Author = {Omer Erhan Erbis},
+    Year   = {2023},
+    Url    = {https://github.com/omererhanerbis/forecasting_electricity_consumption_in_turkey}
+}
